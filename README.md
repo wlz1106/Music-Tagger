@@ -1,1 +1,1 @@
-CS307 project -- group 8
+Music Tagger Android Client
